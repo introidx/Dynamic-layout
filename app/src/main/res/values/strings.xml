@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dynamic Layout</string>
+
+    <string-array name="experience">
+        <item>Exp</item>
+        <item>1 Year</item>
+        <item>2 Year</item>
+        <item>3 Year</item>
+        <item>4 Year</item>
+    </string-array>
+</resources>
